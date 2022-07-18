@@ -1,2 +1,1 @@
-# Curso de Python
-Exercícios do curso de Python Udemy
+Endereço do github atualizado: https://github.com/williannischiguti
